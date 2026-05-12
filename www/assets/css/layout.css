@@ -1,6 +1,0 @@
-.screen{position:fixed;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;background:rgba(5,11,20,.95)}
-.panel{background:var(--glass-bg);border:1px solid var(--glass-border);backdrop-filter:blur(20px);border-radius:16px;padding:16px}
-#top-left{position:absolute;top:24px;left:24px;width:280px}
-#log-panel{position:absolute;top:24px;right:24px;width:320px;height:220px;overflow:auto}
-#controls{position:absolute;bottom:0;left:0;width:100%;display:flex;gap:12px;justify-content:center;padding:15px;background:var(--glass-bg)}
-#hand{position:absolute;bottom:90px;left:50%;transform:translateX(-50%);display:flex;gap:10px;max-width:98vw;overflow:auto}
