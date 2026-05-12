@@ -1,0 +1,6 @@
+{
+  "appId": "com.jendral.deluxe",
+  "appName": "Jendral Deluxe",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
